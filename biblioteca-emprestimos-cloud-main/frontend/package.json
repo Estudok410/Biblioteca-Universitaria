@@ -6,9 +6,10 @@
     "node": "22.x"
   },
   "dependencies": {
-    "react": "^18.x",
-    "react-dom": "^18.x",
-    "react-scripts": "5.0.1"
+  "react": "...",
+  "react-dom": "...",
+  "react-scripts": "5.0.1",
+  "react-router-dom": "^6.23.1"
   },
   "scripts": {
     "start": "react-scripts start",
